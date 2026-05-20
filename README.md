@@ -1,0 +1,2 @@
+# VoiceVoxChatReader_for_FF14
+VOICEVOXを利用してFF14のチャットを読み上げるACTのプラグインです、ACTとVOICEVOXが必要です
